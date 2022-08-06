@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bambitheone82112/Crisis.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bambitheone82112/Crisis.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### CRISIS.COM
+This is the official repository for Crisis.com! :) you can contribute here by making pull request!
+### well made shit credits
+- Bambitheone82112 (aka Crisis) - made page
+- github pages - pages
+- you - contributor
+Update "you" into your name!
+### fax the j
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+### yt? fuck
+https://www.youtube.com/channel/UCR0xKSxYbDki7n7RfUIcfIA
+![:(](![image](https://user-images.githubusercontent.com/102416852/183249642-54b1940a-8616-47b5-8572-7af2f10a3e2e.png)
+### thats done well shit
