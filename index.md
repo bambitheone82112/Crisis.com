@@ -9,5 +9,5 @@ Update "you" into your name!
 jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 ### yt? fuck
 https://www.youtube.com/channel/UCR0xKSxYbDki7n7RfUIcfIA
-![:(](![image](https://user-images.githubusercontent.com/102416852/183249642-54b1940a-8616-47b5-8572-7af2f10a3e2e.png)
+(![image](https://user-images.githubusercontent.com/102416852/183249642-54b1940a-8616-47b5-8572-7af2f10a3e2e.png)
 ### thats done well shit
